@@ -1,0 +1,15 @@
+{
+  "name": "netflix-clone-js",
+  "version": "1.0.0",
+  "description": "Netflix clone using HTML, CSS and JS only with TMDB API",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "boris yarmulnik",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
