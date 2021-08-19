@@ -19,5 +19,5 @@ app.use((req, res) => {
 })
 
 app.listen(process.env.PORT || 5000|| 3000, () => {
-    // console.log('listening on port 3000......');
+    console.log('server has started......');
 })
