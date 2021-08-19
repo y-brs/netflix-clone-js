@@ -20,3 +20,5 @@ Deployed live on https://netflix-clone-js-4c350e.netlify.app. Check out!
 Yooooo! 🚀
 
 ![Screenshot 2021-08-19 at 23 39 51](https://user-images.githubusercontent.com/68222437/130140880-c7930c91-1e4b-4922-9a78-c54defde4400.png)
+
+![Screenshot 2021-08-19 at 23 46 21](https://user-images.githubusercontent.com/68222437/130141617-4015cd1b-b181-4da0-ad59-5d7e2e484533.png)
